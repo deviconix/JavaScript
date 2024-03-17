@@ -23,10 +23,10 @@ not any branch only link
 
 5. https://replit.com/@emailworking/JS-05-element-fibonacci#script.js
 
-6.
+6. https://replit.com/@emailworking/JS-06-obiekt-json#script.js
 
-7.
+7. https://replit.com/@emailworking/JS-07-obiekty-ksiazka#script.js
 
-8.
+8. https://replit.com/@emailworking/JS-08-sortowanie-babelkowanie#script.js
 
-9.
+9. https://replit.com/@emailworking/JS-09-funkcja-iloczyn#index.js
