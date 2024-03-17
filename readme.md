@@ -17,7 +17,9 @@ link replit.com :
 
 3. https://replit.com/@emailworking/JS-03-suma-iloczyn#script.js
 
-4.
+not any branch only link
+
+4. https://replit.com/@emailworking/JS-04-suma-kwadratow#script.js
 
 5.
 
