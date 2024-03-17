@@ -21,7 +21,7 @@ not any branch only link
 
 4. https://replit.com/@emailworking/JS-04-suma-kwadratow#script.js
 
-5.
+5. https://replit.com/@emailworking/JS-05-element-fibonacci#script.js
 
 6.
 
