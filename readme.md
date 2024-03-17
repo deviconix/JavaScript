@@ -15,7 +15,7 @@ link replit.com :
 
 2. https://replit.com/@emailworking/JS-02-sortuj-litery-stringa#script.js
 
-3.
+3. https://replit.com/@emailworking/JS-03-suma-iloczyn#script.js
 
 4.
 
